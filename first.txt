@@ -2,4 +2,4 @@
 基本的な学ぶ。
 .git add
 .git commit
-
+.git remove
