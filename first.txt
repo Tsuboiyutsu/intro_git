@@ -1,2 +1,5 @@
 初めてGITを学ぶ。
 基本的な学ぶ。
+.git add
+.git commit
+
